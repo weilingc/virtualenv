@@ -23,6 +23,7 @@ $ .venv\Scripts\activate
 
 
 #原來之前使用pycharm中有看到 venv這個資料夾 就是pycharm有內建virtualenv的服務
+
 <img width="357" alt="2022-01-07_16h33_41" src="https://user-images.githubusercontent.com/66947341/148515623-c449aee0-08a8-48c5-9326-82f1e1b86bea.png">
 <img width="128" alt="2022-01-07_16h34_02" src="https://user-images.githubusercontent.com/66947341/148515677-7cc2baa4-79b9-4539-8409-c3afa485617f.png">
 
