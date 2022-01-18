@@ -31,10 +31,11 @@ $ .venv\Scripts\activate
 
 # phcharm在Terminal和interpreter目錄不同. Terminal沒有進入虛擬環境
 下 venv\Scripts\activate 或 venv\Scripts\activate.bat 或 venv\Scripts\activate.ps1 都沒反應
-右鍵~以系統管理員身分~執行power shell
+右鍵 ~ 以系統管理員身分 ~ 執行power shell
 <img width="951" alt="2022-01-18_17h54_08" src="https://user-images.githubusercontent.com/66947341/149913988-8edbb0c8-2c80-49ec-a03d-51ecd921a14b.png">
-ref:
-https://docs.microsoft.com/zh-tw/powershell/module/microsoft.powershell.core/about/about_signing?view=powershell-7.2
+ok惹
+<img width="371" alt="2022-01-18_17h56_27" src="https://user-images.githubusercontent.com/66947341/149914284-b41a124b-94aa-4ef1-a7c9-c479e3394f94.png">
+ref: https://docs.microsoft.com/zh-tw/powershell/module/microsoft.powershell.core/about/about_signing?view=powershell-7.2
 
 # 改專案資料夾名稱的時候, 內部路徑都沒改到
 <img width="566" alt="2022-01-18_17h35_14" src="https://user-images.githubusercontent.com/66947341/149910571-9ad9361a-3bcd-4b05-8162-9e6f3e9e3e16.png">
