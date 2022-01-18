@@ -15,18 +15,19 @@ $ source xxx_env/bin/activate
 # window:
 自己測試可運行指令:
 $ .venv\Scripts\activate
-
 <img width="314" alt="2022-01-07_16h32_11" src="https://user-images.githubusercontent.com/66947341/148515442-ab017d65-6e21-4925-a385-db3f7d6e4fcd.png">
 <img width="276" alt="2022-01-07_16h34_57" src="https://user-images.githubusercontent.com/66947341/148515789-e26fb991-e623-4b80-a132-e0fd9de5fe2f.png">
 
 
-
-
 #原來之前使用pycharm中有看到 venv這個資料夾 就是pycharm有內建virtualenv的服務
-
 <img width="357" alt="2022-01-07_16h33_41" src="https://user-images.githubusercontent.com/66947341/148515623-c449aee0-08a8-48c5-9326-82f1e1b86bea.png">
 <img width="128" alt="2022-01-07_16h34_02" src="https://user-images.githubusercontent.com/66947341/148515677-7cc2baa4-79b9-4539-8409-c3afa485617f.png">
 
+
+# pycharm直接用綠色箭頭無法run -> interpreter找不到
+1. setting中 ~ 在原有專案目錄加入interpreter
+2. 再到 run/edit configurations選擇剛剛新增的interpreter就好囉
+<img width="775" alt="2022-01-18_17h24_33" src="https://user-images.githubusercontent.com/66947341/149908495-38786a09-fb28-4dd9-8edb-20c71de32722.png">
 
 
 # 注意
