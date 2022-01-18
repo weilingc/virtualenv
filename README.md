@@ -37,12 +37,20 @@ ok惹
 <img width="371" alt="2022-01-18_17h56_27" src="https://user-images.githubusercontent.com/66947341/149914284-b41a124b-94aa-4ef1-a7c9-c479e3394f94.png">
 ref: https://docs.microsoft.com/zh-tw/powershell/module/microsoft.powershell.core/about/about_signing?view=powershell-7.2
 
+# 資料夾名稱對不上
+<img width="657" alt="2022-01-18_18h16_57" src="https://user-images.githubusercontent.com/66947341/149917860-7cda6acd-b8f3-4020-bcd8-3e7faf6eb33b.png">
+
+解決方式: 前面多下py
+<img width="478" alt="2022-01-18_18h17_42" src="https://user-images.githubusercontent.com/66947341/149918007-7665ab3a-f0ed-48e6-8eda-20b34a57b612.png">
+
+ref:
+https://www.maxlist.xyz/2019/07/13/pip-install-python/
+
 # 改專案資料夾名稱的時候, 內部路徑都沒改到
 <img width="566" alt="2022-01-18_17h35_14" src="https://user-images.githubusercontent.com/66947341/149910571-9ad9361a-3bcd-4b05-8162-9e6f3e9e3e16.png">
 對專案資料夾按右鍵-> replace in file -> 全部修改
 <img width="211" alt="2022-01-18_17h42_11" src="https://user-images.githubusercontent.com/66947341/149911826-aad29792-2dbf-4636-89d7-e886f01a2ff0.png">
 <img width="773" alt="2022-01-18_17h40_48" src="https://user-images.githubusercontent.com/66947341/149911866-22c0769a-5957-4478-8d03-7d1afc5e5b53.png">
-
 
 
 # 注意
@@ -53,3 +61,9 @@ ref: https://docs.microsoft.com/zh-tw/powershell/module/microsoft.powershell.cor
 
 #參考
 It's django 2.3虛擬環境 p.76
+
+# exe檔案
+使用套件pyinstaller
+<img width="485" alt="2022-01-18_18h25_28" src="https://user-images.githubusercontent.com/66947341/149919428-fecf9a14-7598-4973-bc08-5c5d3f71189a.png">
+ref:
+https://medium.com/pyladies-taiwan/python-%E5%B0%87python%E6%89%93%E5%8C%85%E6%88%90exe%E6%AA%94-32a4bacbe351
